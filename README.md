@@ -15,7 +15,7 @@ To write a C program to implement a symbol table.
 7.	To reach a variable, enter the variable to be searched and symbol table has been checked for corresponding variable, the variable along with its address is displayed as result.
 8.	Stop the program. 
 # PROGRAM :
-``
+```
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
@@ -65,7 +65,7 @@ int main() {
     }
     return 0;
 }
-``
+```
 # OUTPUT :
 ![374482333-ce1017fb-c74c-4581-9bc0-fad8bb69c7c9](https://github.com/user-attachments/assets/a16e20e9-65dd-4f28-8f71-f062072e6a6f)
 
